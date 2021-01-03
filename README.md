@@ -11,14 +11,14 @@ JWT_KEY = " "
 
 ## Usage
 
-#Sign up and sign in
+# Sign up and sign in
 ![Alt Text](https://recordit.co/uy4L3YRAuD.gif)
 
 
-#Post and delete with token
+# Post and delete with token
 ![Alt Text](https://recordit.co/lfIt4QGbMH.gif)
 
-#Get, Get specific and patch
+# Get, Get specific and patch
 ![Alt Text](https://recordit.co/qEVkeTeujN)
 
 
