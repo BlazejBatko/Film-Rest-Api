@@ -1,7 +1,10 @@
 ## Rest Api about films library with users authorization
 
-
-Make sure to  add your Mongo Atlas Admin Username to a env.json file (which you have to create).
+# how to run
+```
+npm start
+```
+Make sure to  add your Mongo Atlas Admin Username to a .env file.
 and JWT key.
 
 ```
