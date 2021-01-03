@@ -19,7 +19,7 @@ JWT_KEY = " "
 ![Alt Text](https://recordit.co/lfIt4QGbMH.gif)
 
 # Get, Get specific and patch
-![Alt Text](https://recordit.co/qEVkeTeujN)
+![Alt Text](https://recordit.co/qEVkeTeujN.gif)
 
 
 
