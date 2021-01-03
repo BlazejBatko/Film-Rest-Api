@@ -15,6 +15,15 @@ JWT_KEY = " "
 ![Alt Text](https://recordit.co/uy4L3YRAuD.gif)
 
 
+#Post and delete with token
+![Alt Text](https://recordit.co/lfIt4QGbMH.gif)
+
+#Get, Get specific and patch
+![Alt Text](https://recordit.co/qEVkeTeujN)
+
+
+
+
 ## Contributing
 Pull requests are welcome.
 
